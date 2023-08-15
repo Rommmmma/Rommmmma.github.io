@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f638c10f.css",
-    "main.js": "/static/js/main.d6e286aa.js",
+    "main.css": "/static/css/main.7eb1cd4b.css",
+    "main.js": "/static/js/main.a374d208.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/bg-image.png": "/static/media/bg-image.195439bc4243700ca8f9.png",
     "static/media/index.cjs": "/static/media/index.484628978b97af3b0b6e.cjs",
     "static/media/비담 로고.png": "/static/media/비담 로고.924af110d454c6add25f.png",
     "index.html": "/index.html",
-    "main.f638c10f.css.map": "/static/css/main.f638c10f.css.map",
-    "main.d6e286aa.js.map": "/static/js/main.d6e286aa.js.map",
+    "main.7eb1cd4b.css.map": "/static/css/main.7eb1cd4b.css.map",
+    "main.a374d208.js.map": "/static/js/main.a374d208.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f638c10f.css",
-    "static/js/main.d6e286aa.js"
+    "static/css/main.7eb1cd4b.css",
+    "static/js/main.a374d208.js"
   ]
 }
